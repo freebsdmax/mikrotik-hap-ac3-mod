@@ -6,3 +6,4 @@ all that remains is to solder the connector and zero resistors
 
 and install the equipment you need
 
+rename config_my to .config
